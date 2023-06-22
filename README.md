@@ -7,4 +7,5 @@
 ![image](https://github.com/Rishabh8210/Speech-Translator/assets/92287287/ff18f668-64c6-47d1-bc58-814f7e640f62)
 
 # Text To Speech Conversion
-![image](https://github.com/Rishabh8210/Speech-Translator/assets/92287287/8c87a3bd-c55f-403b-86d7-e5de9a14f22f)
+![image](https://github.com/Rishabh8210/Speech-Translator/assets/92287287/865e11b1-0272-47fa-84c3-d934b5e3cc54)
+
